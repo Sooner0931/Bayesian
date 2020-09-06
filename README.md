@@ -10,3 +10,5 @@ This is pretty a difficult subject, just walk through and get some hunch of it, 
 4. http://bois.caltech.edu/dist_stories/t3b_probability_stories.html
 
 5. https://betanalpha.github.io/assets/case_studies/probability_theory.html
+
+6. https://github.com/fonnesbeck/intro_stat_modeling_2017/blob/master/notebooks/2.%20Basic%20Bayesian%20Inference.ipynb

@@ -1,5 +1,5 @@
 # Bayesian
-This is pretty a difficult subject, just walk through and get some hunch of it, too many details need to be pondered if wanna fully grasp the essence, both of theory and PyMC3 modules, good news is that along the way, many resources are available for reference:
+This is pretty a difficult domain, especially for the ppl who are trained as a "frequentist". Just walk through and get some hunch of it, too many details need to be pondered if wanna fully grasp the essence, both of theory and PyMC3 modules. Good news is that along the way, many resources are available for reference:
 
 1. https://ericmjl.github.io/essays-on-data-science/machine-learning/computational-bayesian-stats/
 
